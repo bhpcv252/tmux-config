@@ -1,1 +1,3 @@
-# Tmux Config
+# My Tmux Config
+
+![Tmux Preview](preview.png)
